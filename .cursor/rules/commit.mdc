@@ -1,5 +1,4 @@
 ---
 description: Always auto-generate concise, English commit messages
-globs: []
-alwaysApply: true
+alwaysApply: false
 ---
